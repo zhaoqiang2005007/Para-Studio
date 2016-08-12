@@ -1,0 +1,6 @@
+[
+	{"courseType":"1","courseName":"1-1 词汇简介1","courseTime":"10:12","courseId":"a001","courseUrl":"http://192.168.1.4:8080/courseapp/video/course.mp4"},
+	{"courseType":"1","courseName":"1-2 词汇简介2","courseTime":"10:12","courseId":"a002","courseUrl":"http://192.168.1.4:8080/courseapp/video/course.mp4"},
+	{"courseType":"2","courseName":"练习题","courseTime":"10:12","courseId":"a003","exciseId":"0001"},
+	{"courseType":"1","courseName":"1-4 词汇简介4","courseTime":"10:12","courseId":"a004","courseUrl":"http://192.168.1.4:8080/courseapp/video/course.mp4"}
+]

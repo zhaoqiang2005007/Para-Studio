@@ -1,0 +1,7 @@
+.x-nav-guide{ margin-top:8px;}
+.x-nav-guide .btn-link{ font-weight:normal; color:#fdb8b6;}
+.x-nav-guide .btn{height:40px; border-top:0;}
+.x-nav-guide .btn.active{ border-bottom:2px solid #fff; color:#fff; }
+
+.x-bar{ background-color:#ea413c; font-size:14px;}
+.editButton{ display:none; }

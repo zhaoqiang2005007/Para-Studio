@@ -1,0 +1,9 @@
+[
+{"courseId":"1","courseName":"语法","updateState":"已更新至4-1","courseImg":"./img/pic1.png","courseUrl":"http://192.168.1.4:8080/courseapp/video/course.mp4"},
+{"courseId":"2","courseName":"词汇","updateState":"已更新至5-1","courseImg":"./img/pic2.png","courseUrl":"http://192.168.1.4:8080/courseapp/video/course.mp4"},
+{"courseId":"3","courseName":"例句","updateState":"已更新至6-1","courseImg":"./img/pic3.png","courseUrl":"http://192.168.1.4:8080/courseapp/video/course.mp4"},
+{"courseId":"4","courseName":"时态","updateState":"已更新至7-1","courseImg":"./img/pic4.png","courseUrl":"http://192.168.1.4:8080/courseapp/video/course.mp4"},
+{"courseId":"5","courseName":"语法1","updateState":"已更新至8-1","courseImg":"./img/pic5.png","courseUrl":"http://192.168.1.4:8080/courseapp/video/course.mp4"},
+{"courseId":"6","courseName":"语法2","updateState":"已更新至9-1","courseImg":"./img/pic1.png","courseUrl":"http://192.168.1.4:8080/courseapp/video/course.mp4"},
+{"courseId":"7","courseName":"语法3","updateState":"已更新至4-2","courseImg":"./img/pic1.png","courseUrl":"http://192.168.1.4:8080/courseapp/video/course.mp4"}
+]
